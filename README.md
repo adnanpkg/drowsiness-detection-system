@@ -149,7 +149,7 @@ self.YAWN_THRESHOLD = 0.6          # Yawn detection sensitivity
 ## Author
 
 Created by Adnan
-projects/adnan.pkg
+github/adnan.pkg
 
 ## License
 
